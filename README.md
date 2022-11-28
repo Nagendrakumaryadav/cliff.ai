@@ -1,6 +1,7 @@
 # login-registration-react-node-js-api
 
-### back-end folder is for backend api: Login and Registration
+### back-end folder is for backend api: Login and Registration                                                                                                           
+Hosted Link :- https://animated-sawine-0219fa.netlify.app/
 
 1. make clone for back-end folder
 2. run command for install the packages: npm install
